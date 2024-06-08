@@ -79,4 +79,4 @@ Execution
 
 Ownership
 -----------------
-Developed by Karlo Banzuela for Shippit Senior Software Engineer Application
+Developed by Karlo Banzuela for Senior Software Engineer Application
