@@ -1,0 +1,24 @@
+{
+  "name": "shippit-takehome",
+  "version": "1.0.0",
+  "description": "Shippit Take Home Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "build": "rm -rf build && tsc",
+    "start": "node index.js"
+  },
+  "author": "Karlo Banzuela",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "@types/jest": "^29.5.12",
+    "@types/lodash": "^4.17.5",
+    "jest": "^29.7.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
